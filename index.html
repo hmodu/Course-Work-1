@@ -20,7 +20,7 @@
                 <div v-for="product in sortedProducts">
                     <h2 v-text="product.subject"></h2>
                     <figure>
-                        <img width="20" height="20" v-bind:src="product.image">
+                        <img width="50" height="50" v-bind:src="product.image">
                     </figure>
                     <p v-html="product.description"></p>
                     <p>Subject: {{product.subject}}</p>
