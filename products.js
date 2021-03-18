@@ -10,7 +10,7 @@ let products = [
     },
     {
       "id": 1002,
-      "image": "chem.png",
+      "image": "che.png",
       "subject": "Chemistry",
       "price": 35,
       "location": "Lagos",
