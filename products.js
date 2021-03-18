@@ -1,6 +1,7 @@
 let products = [
     {
       "id": 1001,
+      "image": "",
       "image": "file.jpg",
       "subject": "Physics",
       "price": 50,
@@ -9,6 +10,7 @@ let products = [
     },
     {
       "id": 1002,
+      "image": "",
       "subject": "Chemistry",
       "price": 35,
       "location": "Lagos",
@@ -16,6 +18,7 @@ let products = [
     },
     {
       "id": 1003,
+      "image": "",
       "subject": "Biology",
       "price": 38,
       "location": "Abuja",
@@ -23,6 +26,7 @@ let products = [
     },
     {
       "id": 1004,
+      "image": "",
       "subject": "Psycology",
       "price": 39,
       "location": "Ontario",
@@ -30,6 +34,7 @@ let products = [
     },
     {
       "id": 1005,
+      "image": "",
       "subject": "Geography",
       "price": 42,
       "location": "Granada",
@@ -37,6 +42,7 @@ let products = [
     },
     {
       "id": 1006,
+      "image": "",
       "subject": "Astrology",
       "price": 49,
       "location": "Conackry",
@@ -44,6 +50,7 @@ let products = [
     },
     {
       "id": 1007,
+      "image": "",
       "subject": "Engineering",
       "price": 38,
       "location": "Munich",
@@ -51,6 +58,7 @@ let products = [
     },
     {
       "id": 1008,
+      "image": "",
       "subject": "Computer",
       "price": 41,
       "location": "Timbuktu",
@@ -58,6 +66,7 @@ let products = [
     },
     {
       "id": 1009,
+      "image": "",
       "subject": "Mathematics",
       "price": 47,
       "location": "Abuja",
@@ -65,6 +74,7 @@ let products = [
     },
       {
       "id": 1010,
+      "image": "",
       "subject": "Sociology",
       "price": 26,
       "location": "Toronto",
