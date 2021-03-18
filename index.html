@@ -6,11 +6,6 @@
     <script src="products.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
 </head>
-<style type="text/css">
-img{
-    width: 100%;
-    }
-</style>
 <body>
     <div id="app">
         <header>
@@ -25,7 +20,7 @@ img{
                 <div v-for="product in sortedProducts">
                     <h2 v-text="product.subject"></h2>
                     <figure>
-                        <img v-bind:src="product.image">
+                        <img width="200" height="40" v-bind:src="product.image">
                     </figure>
                     <p v-html="product.description"></p>
                     <p>Subject: {{product.subject}}</p>
