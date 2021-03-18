@@ -10,7 +10,7 @@ let products = [
     },
     {
       "id": 1002,
-      "image": "",
+      "image": "chem.png",
       "subject": "Chemistry",
       "price": 35,
       "location": "Lagos",
@@ -18,7 +18,7 @@ let products = [
     },
     {
       "id": 1003,
-      "image": "",
+      "image": "bio.jpg",
       "subject": "Biology",
       "price": 38,
       "location": "Abuja",
@@ -26,15 +26,15 @@ let products = [
     },
     {
       "id": 1004,
-      "image": "",
-      "subject": "Psycology",
+      "image": "psy.jpg",
+      "subject": "Psychology",
       "price": 39,
       "location": "Ontario",
       "spaces": 5
     },
     {
       "id": 1005,
-      "image": "",
+      "image": "geo.png",
       "subject": "Geography",
       "price": 42,
       "location": "Granada",
@@ -42,15 +42,15 @@ let products = [
     },
     {
       "id": 1006,
-      "image": "",
-      "subject": "Astrology",
+      "image": "zoo.jpg",
+      "subject": "Zoology",
       "price": 49,
       "location": "Conackry",
       "spaces": 5
     },
     {
       "id": 1007,
-      "image": "",
+      "image": "eng.jpg",
       "subject": "Engineering",
       "price": 38,
       "location": "Munich",
@@ -58,7 +58,7 @@ let products = [
     },
     {
       "id": 1008,
-      "image": "",
+      "image": "com.jpg",
       "subject": "Computer",
       "price": 41,
       "location": "Timbuktu",
@@ -66,7 +66,7 @@ let products = [
     },
     {
       "id": 1009,
-      "image": "",
+      "image": "mat.jpg",
       "subject": "Mathematics",
       "price": 47,
       "location": "Abuja",
@@ -74,7 +74,7 @@ let products = [
     },
       {
       "id": 1010,
-      "image": "",
+      "image": "soc.png",
       "subject": "Sociology",
       "price": 26,
       "location": "Toronto",
